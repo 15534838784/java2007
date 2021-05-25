@@ -14,10 +14,11 @@
     <modules>
         <module>service_hosp</module>
     </modules>
+
     <dependencies>
         <dependency>
             <groupId>com</groupId>
-            <artifactId>service_utils</artifactId>
+            <artifactId>common_util</artifactId>
             <version>1.0</version>
         </dependency>
         <dependency>
@@ -89,5 +90,4 @@
             </resource>
         </resources>
     </build>
-
 </project>
